@@ -1,0 +1,40 @@
+Data Collections
+Strings
+- collection of text, words, letters, para...
+- represented by '..', "..", '''..''', """.."""
+- strings are immutable (cannot be modified)
+List
+- Collection of any type of data
+- represented by [...]
+Tuples
+- Similar to list, but immutable
+- represented by (...)
+Dictionary
+- Collection of data in key and value pair
+- Represented by { key:value, key:value.... }
+Set
+- Unordered and unique collection of data
+- represented by {...}
+
+
+List
+employees = ["Ram","IT",45000,"Morning","Delhi","Chennai"]
+
+Tuple
+employees = ("Ram","IT",45000,"Morning","Delhi","Chennai")
+
+Dictionary
+employees = {"name":"Ram", "dept":"IT", "salary":45000, 
+             "Shift":"Morning", "Address":"Delhi", "Branch":"Chennai"}
+
+
+
+Web Scraping
+API Calls
+
+
+
+
+
+
+
