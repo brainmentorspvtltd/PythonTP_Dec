@@ -1,0 +1,33 @@
+File Handling
+2 types of files
+- text
+- binary / bytes - images, audio, video...
+
+2 types of operations
+- read
+- write
+
+Steps to perform file handling
+- open file and tell the mode in which we are going to open file
+- read/write data
+- close file
+
+modes for file handling
+- read		- r / rb
+- write		- w / wb / x
+- append	- a / ab
+
+Difference b/w 'x' mode and 'w' mode
+- 'w' mode open file for write, if file already exists than it overwrites the file. If file doesn't exist than it will create the file and than write it...
+
+- 'x' mode open file for write, if file already exists than it raise an error file already exist. It will creates the file first.
+
+
+
+
+
+
+
+
+
+
